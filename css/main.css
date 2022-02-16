@@ -1,55 +1,55 @@
 html {
-    height: 99.6%;
-    width: 99.6%;
-    background: #1f1f1f;
-    background-size: cover;
-    color: #ccc;
-    padding: 0;
-    font-family: monospace;
+    height          : 99.6%;
+    width           : 99.6%;
+    background      : #1F1F1F;
+    background-size : cover;
+    color           : #CCCCCC;
+    padding         : 0;
+    font-family     : monospace;
     /*border: 3px solid green;*/
 }
 
 header {
-    width: 99.6%;
-    height: 8%;
-    background: #333;
-    background-size: cover;
-    position: absolute;
-    top: 0;
-    left: 0;
+    width           : 99.6%;
+    height          : 8%;
+    background      : #333333;
+    background-size : cover;
+    position        : absolute;
+    top             : 0;
+    left            : 0;
 }
 
 main {
-    width: 100%;
-    height: 100%;
+    width  : 100%;
+    height : 100%;
 }
 
 h1 {
-    font-family: Monospaced, monospace;
-    font-size: 5em;
+    font-family : Monospaced, monospace;
 }
 
 #me_cnt {
-    position: relative;
-    height: 95vh;
+    position : relative;
+    height   : 95vh;
     /*border: 3px solid red;*/
 }
 
 #me {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    margin: 0 auto;
-    color: coral;
+    font-size : 5em;
+    position  : absolute;
+    top       : 50%;
+    left      : 50%;
+    transform : translate(-50%, -50%);
+    margin    : 0 auto;
+    color     : coral;
 }
 
 footer {
-    width: 99.6%;
-    height: 8%;
-    background: #333;
-    background-size: cover;
-    position: absolute;
-    bottom: 0;
-    left: 0;
+    width           : 99.6%;
+    height          : 8%;
+    background      : #333333;
+    background-size : cover;
+    position        : absolute;
+    bottom          : 0;
+    left            : 0;
 }
